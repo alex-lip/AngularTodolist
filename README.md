@@ -1,5 +1,11 @@
 # AngularCrashTodolist
 
+Tutorial from Traversy Media: https://www.youtube.com/watch?v=Fdf5aTYRW0E&t
+
+Created a todo list with Angular to Add, Delete, and Mark Complete todo list items.
+
+Learned Angular concepts like components and services.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
